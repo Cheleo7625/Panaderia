@@ -1,0 +1,42 @@
+body {background: url(fondo.jpg);}
+
+
+
+img{max-width:  300%;}
+
+.oro {	color: #F2A12A }
+
+.espacio-izquierda{	margin-left: 20em;}
+
+.quitar-float{ 	float: none;}
+
+.espacio-arriba{	margin-top: 100px;}
+
+.espacio-abajo{ 	margin-bottom: 0px;}
+
+.animated{ pulse;}
+
+.tama{ 	width: 400px;}
+
+.ta{ 	width: 700px; }
+
+.pacifico{	font-family: 'Pacifico'
+ cursive;}
+
+.grande{	font-size: 40px;}
+
+.mediano{	font-size: 30px;
+color: #292204;}
+
+.mediano {	color: #372507;}
+
+ven come y divierte
+.celeste{	color: #A0F70A;}
+
+
+.espacio-derecha{	margin-right: 1em;
+}
+
+.nav {font-size: "20"}
+
+.p{ font-size: 250px;}
